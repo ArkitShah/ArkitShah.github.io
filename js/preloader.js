@@ -18,5 +18,5 @@ function displayContent() {
 
 document.addEventListener("DOMContentLoaded", function() {
     loader = document.getElementById('loader');
-    loadNow(0.5);
+    loadNow(1);
 });
