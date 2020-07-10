@@ -502,7 +502,6 @@ a.socialIcon:hover, .socialHoverClass {
 
 .honeycomb-cell:hover .honeycomb-cell__title {
   opacity: 0;
-  cursor: pointer;
 }
 
 .honeycomb-cell:hover::before {
