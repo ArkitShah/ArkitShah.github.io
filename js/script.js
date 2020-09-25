@@ -101,4 +101,3 @@ window.addEventListener('scroll', function (e) {
                 navLink4.style.color = '#fff';
             }
     });
-
